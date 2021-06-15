@@ -1,2 +1,2 @@
 # leetcodeSolutions
-This repository contains my personal C++ solutions for LeetCode problems. All solutions have been accepted by LeetCode.
+This repository contains my C++ solutions for LeetCode problems. All solutions have been accepted by LeetCode.
