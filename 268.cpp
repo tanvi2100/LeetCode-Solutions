@@ -16,6 +16,7 @@ public:
 };
 
 // Solution 2
+
 class Solution {
 public:
     int missingNumber(vector<int>& a) {
